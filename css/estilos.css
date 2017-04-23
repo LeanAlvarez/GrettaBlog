@@ -1,0 +1,72 @@
+body{
+  * Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fcfff4+0,dfe5d7+40,b3bead+100;Wax+3D+%233 */
+background: #fcfff4; /* Old browsers */
+background: -moz-linear-gradient(top, #fcfff4 0%, #dfe5d7 40%, #b3bead 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #fcfff4 0%,#dfe5d7 40%,#b3bead 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #fcfff4 0%,#dfe5d7 40%,#b3bead 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfff4', endColorstr='#b3bead',GradientType=0 ); /* IE6-9 */
+  color: #8D8C8A;
+  margin:auto;
+  padding: 0px 0px;
+}
+h1{
+  font-size: 50px;
+  margin: 50px 50px;
+  border: 15px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-size: 45px;
+}
+header {
+  text-align: center;
+}
+header p {
+  font-size: 20px;
+  text-align: center;
+}
+p{
+  text-align: justify-content;
+  padding: 10px 20px;
+}
+
+a {
+  color: gray;
+  font-size: 25px;
+  font-style: italic;
+
+}
+.info{
+  position: absolute;
+  right: 500px;
+}
+nav{
+  position: relative;
+}
+ li{
+  display: inline-block;
+  margin: 15px 15px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  position: relative;
+  top:10px;
+  bottom:10px;
+  background-color: #FAA507;
+}
+div footer{
+  width: 100%;
+  border:none;
+}
+footer{
+  background: #FAA507;
+  font-size: 20px;
+  padding: 20px 20px;
+  margin:0px 0px;
+  text-align: center;
+  border-radius: 5px;
+}
+.descripcion{
+  text-align: justify;
+}
