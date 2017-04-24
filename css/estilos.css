@@ -54,6 +54,7 @@ nav{
   top:10px;
   bottom:10px;
   background-color: #FAA507;
+  box-shadow: 2px 2px 5px #544113;
 }
 div footer{
   width: 100%;
